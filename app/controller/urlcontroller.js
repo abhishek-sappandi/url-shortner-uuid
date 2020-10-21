@@ -1,4 +1,3 @@
-const express = require('express')
 const Url = require('../model/Url')
 const urlscontroller = {}
 
